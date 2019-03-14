@@ -5,6 +5,7 @@ public class Zadatak3 {
 		//counter brojac redova
 		//brojac brojac ispisa u jednom redu
 		int brojac=1,broj=0;
+		System.out.print(1+" ");
 		vanjska :for (int i = 1; true; i++) {
 			broj=i;
 			
